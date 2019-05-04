@@ -1,3 +1,3 @@
 def say_hello(name = Ruby Programer)
-  prints "Hello, #{name}"
+  prints "Hello, #{name}!"
 end
